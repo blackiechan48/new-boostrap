@@ -11,5 +11,3 @@ Using the previous portfolio made, i am practicing my knowledge of bootstrap to 
 ## screenshot big screen 
 ![this is a screen shot of the page on a big screen](./Assets/images/Screenshot%202024-01-31%20at%2006.02.15.png)
 
-## small screen
-[This is a screenshot of the new Portfolio page on a big screen]
