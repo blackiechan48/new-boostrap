@@ -12,5 +12,5 @@ Using the previous portfolio made, i am practicing my knowledge of bootstrap to 
 ![this is a screen shot of the page](/Assets/images/Screenshot%202024-01-31%20at%2006.02.15.png)
 
 ## Links
-![Live demo link ](https://blackiechan48.github.io/new-boostrap/)
-![Repository link ](https://github.com/blackiechan48/new-boostrap)
+** Live demo link ** (https://blackiechan48.github.io/new-boostrap/)
+** Repository link ** (https://github.com/blackiechan48/new-boostrap)
